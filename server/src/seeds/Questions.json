@@ -1,0 +1,92 @@
+[
+  {
+      "question": "What is the main purpose of Node.js?",
+      "answers": [
+          { "text": "To style web pages using CSS", "isCorrect": false },
+          { "text": "To render HTML elements on the client-side", "isCorrect": false },
+          { "text": "To store data in a relational database", "isCorrect": false },
+          { "text": "To execute JavaScript code server-side", "isCorrect": true }
+      ]
+  },
+  {
+      "question": "Which of the following is a key feature of NoSQL databases?",
+      "answers": [
+          { "text": "Data normalization", "isCorrect": false },
+          { "text": "Schema-less data storage", "isCorrect": true },
+          { "text": "Complex joins", "isCorrect": false },
+          { "text": "Strict data types", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "In React, what is the purpose of a component?",
+      "answers": [
+          { "text": "To encapsulate parts of the UI", "isCorrect": true },
+          { "text": "To execute JavaScript on the server", "isCorrect": false },
+          { "text": "To handle database operations", "isCorrect": false },
+          { "text": "To manage server configurations", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "Which of the following is true about TypeScript?",
+      "answers": [
+          { "text": "It replaces JavaScript in modern web development", "isCorrect": false },
+          { "text": "It is a superset of JavaScript that adds static typing", "isCorrect": true },
+          { "text": "It is only compatible with React applications", "isCorrect": false },
+          { "text": "It is used for server-side rendering", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "What does npm stand for in Node.js?",
+      "answers": [
+          { "text": "Native Project Management", "isCorrect": false },
+          { "text": "Node Package Manager", "isCorrect": true },
+          { "text": "Network Processing Module", "isCorrect": false },
+          { "text": "Node Programming Method", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "Which command is used to create a new React app using Create React App?",
+      "answers": [
+          { "text": "npm install react my-app", "isCorrect": false },
+          { "text": "node create-react-app my-app", "isCorrect": false },
+          { "text": "npx create-react-app my-app", "isCorrect": true },
+          { "text": "npm start react-app my-app", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "In MongoDB, which of the following is used to retrieve all documents in a collection?",
+      "answers": [
+          { "text": "selectAll()", "isCorrect": false },
+          { "text": "queryAll()", "isCorrect": false },
+          { "text": "getAll()", "isCorrect": false },
+          { "text": "find()", "isCorrect": true }
+      ]
+  },
+  {
+      "question": "What is JSX in React?",
+      "answers": [
+          { "text": "A template language for Node.js", "isCorrect": false },
+          { "text": "A library for managing state in React", "isCorrect": false },
+          { "text": "A syntax extension for JavaScript used to write HTML in React", "isCorrect": true },
+          { "text": "A function used to fetch data from APIs", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "In TypeScript, what is the purpose of interfaces?",
+      "answers": [
+          { "text": "To create HTML elements", "isCorrect": false },
+          { "text": "To define types and enforce structure in objects", "isCorrect": true },
+          { "text": "To execute SQL queries", "isCorrect": false },
+          { "text": "To handle HTTP requests", "isCorrect": false }
+      ]
+  },
+  {
+      "question": "What is the primary benefit of using Express.js with Node.js?",
+      "answers": [
+          { "text": "Provides a GUI for database management", "isCorrect": false },
+          { "text": "Simplifies building web servers and APIs", "isCorrect": true },
+          { "text": "Adds type checking to JavaScript", "isCorrect": false },
+          { "text": "Improves database query speed", "isCorrect": false }
+      ]
+  }
+]
