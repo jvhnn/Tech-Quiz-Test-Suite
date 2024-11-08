@@ -97,4 +97,4 @@ npx cypress open
 Run all tests directly from the Cypress UI.
 
 ## Walkthrough Video
-[Link to walkthrough video]
+[Link to walkthrough video](https://youtu.be/zHag9VOR0SU)
